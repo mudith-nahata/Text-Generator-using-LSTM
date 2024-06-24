@@ -19,10 +19,10 @@
 
 # Realtime Applications of LSTM
 
-1) Google translation
+1) Time Series
 
-2) Machine translation
+2) Forecasting
 
-3) Text Generator
+3) Transfer learning
 
 
